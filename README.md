@@ -1,6 +1,8 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
-## End-to-End Data Analytics Project | Python | SQL | PostgreSQL | Power BI
+## End-to-End Data Analytics Project
+
+**Python | SQL | PostgreSQL | Power BI | Data Visualization**
 
 ---
 
@@ -80,9 +82,7 @@ The dataset contains customer shopping transaction information covering customer
 | Missing Values | 37 |
 | Missing Data | Review Rating |
 
----
-
-## 👤 Customer Information
+### 👤 Customer Information
 
 The dataset contains customer-related information such as:
 
@@ -92,9 +92,7 @@ The dataset contains customer-related information such as:
 - Location
 - Subscription Status
 
----
-
-## 🛒 Purchase Information
+### 🛒 Purchase Information
 
 Purchase-related fields include:
 
@@ -105,9 +103,7 @@ Purchase-related fields include:
 - Size
 - Color
 
----
-
-## 🛍️ Shopping Behavior
+### 🛍️ Shopping Behavior
 
 Behavior-related information includes:
 
@@ -125,28 +121,20 @@ Behavior-related information includes:
 The project follows a complete end-to-end data analytics workflow.
 
 ```text
-                  Raw Customer Data
-                         │
-                         ▼
-              Data Cleaning & Preparation
-                         │
-                         ▼
-             Exploratory Data Analysis
-                         │
-                         ▼
-                Feature Engineering
-                         │
-                         ▼
-                  PostgreSQL Database
-                         │
-                         ▼
-                   SQL Analysis
-                         │
-                         ▼
-                Power BI Dashboard
-                         │
-                         ▼
-                  Business Insights
-                         │
-                         ▼
-              Business Recommendations
+Raw Customer Data
+        ↓
+Data Cleaning & Preparation
+        ↓
+Exploratory Data Analysis
+        ↓
+Feature Engineering
+        ↓
+PostgreSQL Database
+        ↓
+SQL Business Analysis
+        ↓
+Power BI Dashboard
+        ↓
+Business Insights
+        ↓
+Business Recommendations
