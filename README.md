@@ -6,7 +6,9 @@
 
 ---
 
-![Customer Shopping Behavior Dashboard](Dashboard/Customer_Shopping_Behavior_Dashboard.png)
+## 📊 Power BI Dashboard
+
+![Customer Shopping Behavior Dashboard](./Customer_Shopping_Behavior_Dashboard.png)
 
 ---
 
@@ -44,8 +46,6 @@ A retail company wants to better understand its customers' shopping behavior in 
 - Marketing strategies
 - Product positioning
 
-Management is interested in understanding purchasing patterns across customer demographics, product categories, shopping behavior, discounts, reviews, shipping preferences, and subscription status.
-
 ### Business Question
 
 > **How can the company leverage customer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?**
@@ -53,8 +53,6 @@ Management is interested in understanding purchasing patterns across customer de
 ---
 
 # 🎯 2. Project Objectives
-
-The major objectives of this project are:
 
 1. Analyze customer purchasing behavior.
 2. Understand customer spending patterns.
@@ -73,8 +71,6 @@ The major objectives of this project are:
 
 # 📊 3. Dataset Overview
 
-The dataset contains customer shopping transaction information covering customer demographics, purchase details, product information, and shopping behavior.
-
 | Dataset Metric | Value |
 |---|---:|
 | Total Transactions | 3,900 |
@@ -82,9 +78,7 @@ The dataset contains customer shopping transaction information covering customer
 | Missing Values | 37 |
 | Missing Data | Review Rating |
 
-### 👤 Customer Information
-
-The dataset contains customer-related information such as:
+### Customer Information
 
 - Customer ID
 - Age
@@ -92,9 +86,7 @@ The dataset contains customer-related information such as:
 - Location
 - Subscription Status
 
-### 🛒 Purchase Information
-
-Purchase-related fields include:
+### Purchase Information
 
 - Item Purchased
 - Category
@@ -103,9 +95,7 @@ Purchase-related fields include:
 - Size
 - Color
 
-### 🛍️ Shopping Behavior
-
-Behavior-related information includes:
+### Shopping Behavior
 
 - Discount Applied
 - Promo Code Used
@@ -117,8 +107,6 @@ Behavior-related information includes:
 ---
 
 # 🔄 4. Project Workflow
-
-The project follows a complete end-to-end data analytics workflow.
 
 ```text
 Raw Customer Data
